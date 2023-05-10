@@ -50,24 +50,25 @@ color: var(--secondary-color-text);
 .adress{
     font-style: normal;
 }
+
 .mail-link{
     font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--primary-color-text);
+color: var(--secondary-color-text);
 }
 .link-tel{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-color-text);
+    color: var(--secondary-color-text);
 }
-.section1{
+.section{
     background-color: var(--secondary-color-text);;
 }
 .title{
     font-size: 56px;
-line-height: 60px;
+line-height:1.07 ;
 text-align: center;
 letter-spacing: 0.02em;
 color: var(--background-color);
@@ -104,7 +105,7 @@ color: var(--primary-color-text);
 }
 .heading{
     font-size: 36px;
-line-height: 40px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -115,7 +116,7 @@ color: var(--secondary-color-text);
 }
 .headline-team{
     font-size: 36px;
-line-height: 40px;
+line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
@@ -163,13 +164,16 @@ color: var(--accent-color);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-color-text);
+    color: var(--secondary-color-text);
+}
+.adress{
+    font-style: normal;
 }
 .link:hover,
 .link:focus{
     color: #404bbf ;
 }
-.adress{
+.adress-portfolio{
     font-style: normal;
 }
 .list{
@@ -227,7 +231,7 @@ color: var(--primary-color-text);
 .foot{
     background-color:  var(--secondary-color-text);
 }
-.link-footer link{
+.link-footer{
     font-family: var(--secondary-font);
     font-weight: 800;
 font-size: 18px;
