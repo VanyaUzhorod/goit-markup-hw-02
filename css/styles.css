@@ -3,7 +3,6 @@
     --accent-color:#4d5ae5;
     --primary-color-text:#434455;
     --secondary-color-text:#2e2f42;
-    --third-color-text:#F4F4FD ;
     --primary-font: "Roboto", sans-serif;
     --secondary-font: "Raleway", sans-serif; 
     
@@ -52,7 +51,7 @@ color: var(--secondary-color-text);
     font-style: normal;
 }
 
-.mail-link{
+.link-mail{
     font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -160,7 +159,7 @@ color: var(--accent-color);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-color-text);
+    color: var(--secondary-color-text);
 }
 .adress{
     font-style: normal;
@@ -175,11 +174,11 @@ color: var(--accent-color);
 .list{
     list-style: none;
 }
-.link-mail{
+.mail-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--primary-color-text);
+    color:var(--primary-color-text);
 }
 .tel-link{
     font-size: 16px;
