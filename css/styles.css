@@ -3,7 +3,7 @@
     --accent-color:#4d5ae5;
     --primary-color-text:#434455;
     --secondary-color-text:#2e2f42;
-    --third-color-text:#F4F4FD;
+    --third-color-text:#F4F4FD ;
     --primary-font: "Roboto", sans-serif;
     --secondary-font: "Raleway", sans-serif; 
     
@@ -58,12 +58,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--secondary-color-text);
 }
-.link-tel{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(--secondary-color-text);
-}
+
 .section{
     background-color: var(--secondary-color-text);;
 }
